@@ -1,5 +1,4 @@
-- Once the state of an object changes (routine state) start a timer in an independant object (routineManager)
-- When the player enters the appropriate room, start the path for the object at the point - path_position = timer/path_length
-- If the entire timer expires, move the object onto its next relative state and start a new timer
-- Continue this method for all object states in order to create routines
-- During special events certain routine states will change
+- All routines will be dictated by the current D/M/Y and time of day.
+- Each NPC will require an instance in all rooms it may appear in
+- Then each time a room is entered, a check will confirm what state/position they should be in
+- 
