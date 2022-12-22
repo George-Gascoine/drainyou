@@ -2,3 +2,4 @@
 - Each NPC will require an instance in all rooms it may appear in
 - Then each time a room is entered, a check will confirm what state/position they should be in
 - instance_create vs activate/deactivate needs testing
+- Use room_speed to modify timer for each object
