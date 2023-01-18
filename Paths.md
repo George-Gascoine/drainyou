@@ -7,3 +7,4 @@
 - Each NPC with a routine will have its own mp_grid containing all other NPCs
 - Each time it enters a new cell on its grid it will check for collisions
 - If one is found it will plan out a new path
+- The game will essentially pause when enterting dialogue (Every object apart from dialogue partner)
