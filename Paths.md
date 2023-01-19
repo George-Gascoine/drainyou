@@ -1,10 +1,10 @@
 - All routines will be dictated by the current D/M/Y and time of day.
 - Each NPC will require an instance in all rooms it may appear in
 - Then each time a room is entered, a check will confirm what state/position they should be in
-- instance_create vs activate/deactivate needs testing
-- Use room_speed to modify timer for each object
 - Paths will be determined via individual mp_grids
 - Each NPC with a routine will have its own mp_grid containing all other NPCs
 - Each time it enters a new cell on its grid it will check for collisions
 - If one is found it will plan out a new path
 - The game will essentially pause when enterting dialogue (Every object apart from dialogue partner)
+- When saving the game, the grid position will be used to save the NPC path position
+- When entering/exiting rooms 
