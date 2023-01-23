@@ -23,4 +23,9 @@
 - Best to let shoppers ghost as the space in very limited
 - Browse points around tables should be used as markers for movement
 - More desirable items during certain times of the year will sell at a higher rate
+- The player will have to set prices accordingly to achieve their desired level of efficiency
+- Expansion and customisation can all be stored via data structures 
+- Custom orders, again, will be stored in data structures
+- Opening times/days will be determined by the player, can't have set times - will be too restrictive 
+- Also, player set opening times will add to difficulty/efficiency
 - 
