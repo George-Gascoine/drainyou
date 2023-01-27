@@ -29,3 +29,7 @@
 - Opening times/days will be determined by the player, can't have set times - will be too restrictive 
 - Also, player set opening times will add to difficulty/efficiency
 - 
+
+//Pets/Animal Husbandry
+
+//Fishing
